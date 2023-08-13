@@ -1,4 +1,4 @@
-<h3 align="center">Frontend Developer, Software Developer</h3>
+<h3 align="center">Web Developer, Software Developer</h3>
 
 - 💬 Ask me about **Python, JS, Html, CSS**
 
