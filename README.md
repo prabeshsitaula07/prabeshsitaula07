@@ -1,14 +1,15 @@
-<h3 align="center">FullStack Developer, Python Developer</h3>
+<h3 align="center">Frontend Developer, Python Developer</h3><br><hr>
 
 - 💬 Ask me about **Python, JS, Html, CSS**
-- Reach me : <a href="https://prabeshsitaula.com.np">prabeshsitaula.com.np</a>
+- Reach me : <a href="https://prabeshsitaula.com.np">prabeshsitaula.com.np</a><br><hr>
+
 # Connect me via
 <p align="left">
 <a href="https://twitter.com/prabesh_sitaula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prabesh_sitaula" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prabesh sitaula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabesh sitaula" height="30" width="40" /></a>
 <a href="https://fb.com/prabesh.ctaula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prabesh.ctaula" height="30" width="40" /></a>
 <a href="https://instagram.com/prabesh.sitaula07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prabesh.sitaula07" height="30" width="40" /></a>
-</p>
+</p><br><hr>
 
 # Languages and tools
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -22,9 +23,10 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![SEO](https://img.shields.io/badge/SEO-%2342B983.svg?style=for-the-badge&logo=seo&logoColor=white)
+<br><hr>
 
 # 📊GitHub Stats :
-![](https://github-readme-streak-stats.herokuapp.com/?user=prabeshsitaula07&theme=dark&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=prabeshsitaula07&theme=dark&hide_border=true)<br>
 <hr>
 
 [![](https://visitcount.itsvg.in/api?id=prabeshsitaula07&icon=0&color=3)](https://visitcount.itsvg.in)
