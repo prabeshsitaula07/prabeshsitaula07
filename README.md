@@ -6,7 +6,7 @@
 # Connect me via
 <p align="left">
 <a href="https://twitter.com/prabesh_sitaula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prabesh_sitaula" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prabesh sitaula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabesh sitaula" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prabesh-sitaula/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabesh sitaula" height="30" width="40" /></a>
 <a href="https://fb.com/prabesh.ctaula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prabesh.ctaula" height="30" width="40" /></a>
 <a href="https://instagram.com/prabesh.sitaula07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prabesh.sitaula07" height="30" width="40" /></a>
 </p><br><hr>
