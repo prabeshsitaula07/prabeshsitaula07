@@ -1,7 +1,7 @@
 <h3 align="center">Frontend Developer, Python Developer</h3><br><hr>
 
 - 💬 Ask me about **Python, JS, Html, CSS**
-- Reach me : <a href="https://prabeshsitaula.com.np">prabeshsitaula.com.np</a><br><hr>
+- Reach me : <a href="https://www.prabeshsitaula.com.np">prabeshsitaula.com.np</a><br><hr>
 
 # Connect me via
 <p align="left">
@@ -23,6 +23,10 @@
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![SEO](https://img.shields.io/badge/SEO-%2342B983.svg?style=for-the-badge&logo=seo&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+
 <br><hr>
 
 # 📊GitHub Stats :
