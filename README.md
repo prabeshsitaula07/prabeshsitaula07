@@ -20,11 +20,14 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%231a202c.svg?style=for-the-badge&logo=tailwind-css&logoColor=61dafb)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-%2342B983.svg?style=for-the-badge&logo=seo&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-%217346BE.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![SEO](https://img.shields.io/badge/SEO-%2342B983.svg?style=for-the-badge&logo=seo&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+
 
 
 <br><hr>
