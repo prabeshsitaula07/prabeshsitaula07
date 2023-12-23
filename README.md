@@ -1,6 +1,5 @@
 <h3 align="center">Computerphile</h3><br><hr>
 
-- 💬 Ask me about **Python, JS, Html, CSS**
 - Reach me : <a href="https://www.prabeshsitaula.com.np">prabeshsitaula.com.np</a><br><hr>
 
 # Connect me via
