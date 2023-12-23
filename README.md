@@ -1,4 +1,4 @@
-<h3 align="center">Computerphile</h3><br><hr>
+<h3 align="center">Computerphile</h3><br>
 
 - Reach me : <a href="https://www.prabeshsitaula.com.np">prabeshsitaula.com.np</a><br><hr>
 
