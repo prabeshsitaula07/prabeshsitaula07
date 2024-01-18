@@ -1,8 +1,12 @@
-<h3 align="center">Computerphile</h3><br>
+# 💫 About Me :
 
-- Reach me : <a href="https://www.prabeshsitaula.com.np">prabeshsitaula.com.np</a><br><hr>
+Computerphile<br>
 
-# Connect me via
+- 🔭 I’m currently working on React.
+- 🌱 I’m currently learning Django.
+- 📫 Reach me : <a href="https://www.prabeshsitaula.com.np">prabeshsitaula.com.np</a><br><hr>
+
+# 🌐 Connect me via
 <p align="left">
 <a href="https://twitter.com/prabesh_sitaula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prabesh_sitaula" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/prabesh-sitaula/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabesh sitaula" height="30" width="40" /></a>
@@ -10,7 +14,7 @@
 <a href="https://instagram.com/prabesh.sitaula07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prabesh.sitaula07" height="30" width="40" /></a>
 </p><br><hr>
 
-# Languages and tools
+# 💻 Tech Stack
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -34,7 +38,7 @@
 
 <br><hr>
 
-# 📊GitHub Stats :
+# 📊 GitHub Stats :
 ![](https://github-readme-streak-stats.herokuapp.com/?user=prabeshsitaula07&theme=dark&hide_border=true)<br>
 <hr>
 
