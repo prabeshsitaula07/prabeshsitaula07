@@ -1,18 +1,36 @@
 ## 💫 About Me :
 
-Computerphile<br>
+<strong>Computerphile</strong><br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prabeshsitaula07&label=Profile%20views&color=0e75b6&style=flat" alt="prabeshsitaula07" width="190" height="40"/> </p>
 
 -  🔭 I’m Currently Working on ![React Logo](https://img.shields.io/badge/-React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 - 🌱 I’m currently learning ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 - 📫 Reach me : <a href="https://www.prabeshsitaula.com.np">prabeshsitaula.com.np</a><br><hr>
 
 ## 🌐 Connect me via
-<p align="left">
-<a href="https://twitter.com/prabesh_sitaula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prabesh_sitaula" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/prabesh-sitaula/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabesh sitaula" height="30" width="40" /></a>
-<a href="https://fb.com/prabesh.ctaula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prabesh.ctaula" height="30" width="40" /></a>
-<a href="https://instagram.com/prabesh.sitaula07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prabesh.sitaula07" height="30" width="40" /></a>
-</p><br><hr>
+<div style="display: flex; align-items: center;">
+   <table align="center">
+    <tr>
+<!--twitter -->
+      <td align="center" width="96">
+            <a href="https://twitter.com/prabesh_sitaula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prabesh_sitaula" height="70" width="90" /></a>
+      </td>
+      <td align="center" width="96">
+<a href="https://www.linkedin.com/in/prabesh-sitaula/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabesh sitaula" height="70" width="90" /></a>
+      </td>
+      <td align="center" width="96">
+<a href="https://fb.com/prabesh.ctaula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prabesh.ctaula" height="70" width="90" /></a>
+      </td>
+      <td align="center" width="96">
+<a href="https://instagram.com/prabesh.sitaula07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prabesh.sitaula07" height="70" width="90" /></a>
+      </td>
+      <td align="center" width="96">
+<a href="https://discord.gg/Ns7t9Q39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="prabesh.sitaula07" height="70" width="90" /></a>
+      </td>
+        </tr>
+  </table>
+</div>
+<br><hr>
 
 ## 💻 Tech Stack
 <div style="display: flex; align-items: flex-start; align: center">
