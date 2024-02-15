@@ -1,7 +1,7 @@
 ## 💫 About Me :
 
 <strong>Computerphile</strong><br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prabeshsitaula07&label=Profile%20views&color=0e75b6&style=flat" alt="prabeshsitaula07" width="190" height="40"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prabeshsitaula07&label=Profile%20views&color=0e75b6&style=flat" alt="prabeshsitaula07" width="90" height="20"/> </p>
 
 -  🔭 I’m Currently Working on ![React Logo](https://img.shields.io/badge/-React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 - 🌱 I’m currently learning ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -13,19 +13,19 @@
     <tr>
 <!--twitter -->
       <td align="center" width="96">
-            <a href="https://twitter.com/prabesh_sitaula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prabesh_sitaula" height="70" width="90" /></a>
+            <a href="https://twitter.com/prabesh_sitaula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prabesh_sitaula" height="50" width="70" /></a>
       </td>
       <td align="center" width="96">
-<a href="https://www.linkedin.com/in/prabesh-sitaula/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabesh sitaula" height="70" width="90" /></a>
+<a href="https://www.linkedin.com/in/prabesh-sitaula/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabesh sitaula" height="50" width="70" /></a>
       </td>
       <td align="center" width="96">
-<a href="https://fb.com/prabesh.ctaula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prabesh.ctaula" height="70" width="90" /></a>
+<a href="https://fb.com/prabesh.ctaula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prabesh.ctaula" height="50" width="70" /></a>
       </td>
       <td align="center" width="96">
-<a href="https://instagram.com/prabesh.sitaula07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prabesh.sitaula07" height="70" width="90" /></a>
+<a href="https://instagram.com/prabesh.sitaula07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prabesh.sitaula07" height="50" width="70" /></a>
       </td>
       <td align="center" width="96">
-<a href="https://discord.gg/Ns7t9Q39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="prabesh.sitaula07" height="70" width="90" /></a>
+<a href="https://discord.gg/Ns7t9Q39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="prabesh.sitaula07" height="50" width="70" /></a>
       </td>
         </tr>
   </table>
@@ -149,3 +149,10 @@
 ![Prabesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabeshsitaula07&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=prabeshsitaula07&theme=radical)](https://git.io/streak-stats)
+
+## 📈 Contribution Graph
+<p align="center">
+ <a href="https://github.com/nightmaregaurav">
+   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=prabeshsitaula07&theme=github-compact" />
+ </a>
+</p>
