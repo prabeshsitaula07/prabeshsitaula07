@@ -11,12 +11,14 @@
 <div style="display: flex; align-items: center;">
    <table align="center">
     <tr>
-<!--twitter -->
-      <td align="center" width="96">
-            <a href="https://twitter.com/prabesh_sitaula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prabesh_sitaula" height="50" width="70" /></a>
-      </td>
       <td align="center" width="96">
 <a href="https://www.linkedin.com/in/prabesh-sitaula/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabesh sitaula" height="50" width="70" /></a>
+      </td>
+      <td align="center" width="96">
+<a href="https://leetcode.com/prabeshsitaula07/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/63964149/152531278-5e01909d-0c2e-412a-8acc-4a06863c244d.png" alt="prabesh sitaula" height="50" width="70" /></a>
+      </td>
+      <td align="center" width="96">
+            <a href="https://twitter.com/prabesh_sitaula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prabesh_sitaula" height="50" width="70" /></a>
       </td>
       <td align="center" width="96">
 <a href="https://fb.com/prabesh.ctaula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prabesh.ctaula" height="50" width="70" /></a>
