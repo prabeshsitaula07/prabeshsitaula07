@@ -5,7 +5,7 @@
 
 -  🔭 I’m Currently Working on ![React Logo](https://img.shields.io/badge/-React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 - 🌱 I’m currently learning ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-- 📫 Reach me : <a href="https://www.prabeshsitaula.com.np">prabeshsitaula.com.np</a><br><hr>
+- 📫 Reach me : <a href="https://prabeshsitaula.com.np">prabeshsitaula.com.np</a><br><hr>
 
 ## 🌐 Connect me via
 <div style="display: flex; align-items: center;">
