@@ -79,6 +79,10 @@
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
         <br>React
       </td>
+       <td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=ejs" width="48" height="48" alt="EJS" />
+  <br>EJS
+</td>
       <!-- Tailwind CSS -->
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" />
@@ -101,16 +105,10 @@
          <img src="https://cdn.iconscout.com/icon/free/png-512/free-microsoft-excel-1411847-1194336.png?f=webp&w=256" alt="Excel" width="65" height="65" />
         <br>Excel
       </td>
-      <!-- Flask -->
-      <td align="center" width="96">
-         <img src="https://cdn.iconscout.com/icon/free/png-512/free-flask-51-285137.png?f=webp&w=256" alt="Flask" width="65" height="65" />
-        <br>Flask
-      </td>
-      <!-- pip -->
-      <td align="center" width="96">
-         <img src="https://www.telecomhall.net/uploads/db2683/original/2X/9/93768e7290bc8c8473a02561ac4e608642cfbaca.png" alt="Pip" width="65" height="65" />
-        <br>pip
-      </td>
+  <td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
+  <br>Flask
+</td>
       <!-- Git -->
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
@@ -142,8 +140,6 @@
   <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
   <br>Docker
 </td>
-
-    </tr>
   </table>
 </div>
 <br><hr>
