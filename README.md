@@ -3,8 +3,7 @@
 <strong>Computerphile</strong><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabeshsitaula07&label=Profile%20views&color=0e75b6&style=flat" alt="prabeshsitaula07" width="90" height="20"/> </p>
 
--  🔭 I’m Currently Working on ![React Logo](https://img.shields.io/badge/-React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
-- 🌱 I’m currently learning ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+-  🔭 I’m Currently Working on ![React Logo](https://img.shields.io/badge/-React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js Logo](https://img.shields.io/badge/-Node.js-%234285F4.svg?style=for-the-badge&logo=node.js&logoColor=white)
 - 📫 Reach me : <a href="https://prabeshsitaula.com.np">prabeshsitaula.com.np</a><br><hr>
 
 ## 🌐 Connect me via
@@ -102,25 +101,10 @@
          <img src="https://cdn.iconscout.com/icon/free/png-512/free-microsoft-excel-1411847-1194336.png?f=webp&w=256" alt="Excel" width="65" height="65" />
         <br>Excel
       </td>
-      <!-- Django -->
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
-        <br>Django
-      </td>
       <!-- Flask -->
       <td align="center" width="96">
          <img src="https://cdn.iconscout.com/icon/free/png-512/free-flask-51-285137.png?f=webp&w=256" alt="Flask" width="65" height="65" />
         <br>Flask
-      </td>
-      <!-- Pandas -->
-      <td align="center" width="96">
-         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png" alt="Pandas" width="65" height="40" />
-        <br>Pandas
-      </td>
-      <!-- NumPy -->
-      <td align="center" width="96">
-        <img src="https://numpy.org/images/logo.svg" alt="NumPy" width="65" height="65" />
-        <br>NumPy
       </td>
       <!-- pip -->
       <td align="center" width="96">
@@ -142,6 +126,23 @@
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VSCode" />
         <br>VSCode
       </td>
+       <td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
+  <br>TypeScript
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+  <br>Node.js
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
+  <br>Vite
+</td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+  <br>Docker
+</td>
+
     </tr>
   </table>
 </div>
