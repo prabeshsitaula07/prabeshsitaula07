@@ -144,12 +144,3 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=prabeshsitaula07&theme=juicyfresh&column=5&margin-w=15&margin-h=15)
 
 ![Prabesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabeshsitaula07&show_icons=true&theme=radical)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=prabeshsitaula07&theme=radical)](https://git.io/streak-stats)
-
-## 📈 Contribution Graph
-<p align="center">
- <a href="https://github.com/prabeshsitaula07">
-   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=prabeshsitaula07&theme=github-compact" />
- </a>
-</p>
