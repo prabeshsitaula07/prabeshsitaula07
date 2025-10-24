@@ -49,17 +49,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| ♻️ [EcoBin](https://github.com/prabeshsitaula07/ecobin) | Smart waste management web app that promotes eco-friendly waste segregation and tracking. | React, Node.js, Express, MongoDB |
-| 🌄 [Great Nepal Holidays](https://greatnepalholidays.com/) | A professional tourism website for travel booking and destination showcasing. | React, TypeScript, MySql, Node.js, Tailwind |
-| 📚 [Library Management System](https://github.com/prabeshsitaula07/library-management) | A system to manage books, members, and borrowing operations with an intuitive interface. | Php, File I/O |
-| 🔲 [QR Code Generator](https://github.com/prabeshsitaula07/QR-Code-Generator) | Generates QR codes for links, text, and contact info quickly and efficiently. | Python |
-
----
-
 ### 📚 Learning Goals
 
 - 🧠 Master advanced **Machine Learning** algorithms  
